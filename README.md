@@ -38,7 +38,7 @@ img {margin-bottom: -7px}
 <div class="w3-clear"></div>
 <header class="w3-center w3-margin-bottom">
   <h1><b>MARIA RESSINI</b></h1>
-  <p><b>A template made by w3.css for photographers.</b></p>
+  <p><b> Maria Ressini is a passionate and creative young professional with experience in sales, digital marketing audiovisual production. With a solid academic background, she graduated as a technical expert in arts from Bethel Christian School and later sudied theater at the Fine Arts Academy in Bolivia. Currently she is persuing a degree in Audio Visual Media Productionat Howard Community College, where she is developing skills in video production editing and graphic design. Her work experience is diverse, as a sales representative for Channel at Macy's, she developed communication and sales skills to achieve sales targets and provide exceptional customer service.She also worked as a social media management for a store, Vicky's , where she created and implemented digital marketing strategies to increase the online precense of the store and engage the audience. Additionally, she has worked as a makeup artist for professional photo shoots, demostrating her creativity and artistic skills. Maria is a passionate, creative, and dedicated individual with a strong work ethic and great ability to learn and adap to new challenges. She is excited to apply her skills and experience to a new challenge and contribute to succes. </b></p>
   <p class="w3-padding-16"><button class="w3-button w3-black" onclick="myFunction()">Toggle Grid Padding</button></p>
 </header>
 </div>
