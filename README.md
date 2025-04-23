@@ -1,6 +1,4 @@
-# mariaressini-github.io
-Hello wworld
-jknjkjn
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,7 +37,7 @@ img {margin-bottom: -7px}
 <span class="w3-button w3-xxlarge w3-white w3-right" onclick="w3_open()"><i class="fa fa-bars"></i></span>
 <div class="w3-clear"></div>
 <header class="w3-center w3-margin-bottom">
-  <h1><b>PHOTOLIO</b></h1>
+  <h1><b>MARIA RESSINI</b></h1>
   <p><b>A template made by w3.css for photographers.</b></p>
   <p class="w3-padding-16"><button class="w3-button w3-black" onclick="myFunction()">Toggle Grid Padding</button></p>
 </header>
