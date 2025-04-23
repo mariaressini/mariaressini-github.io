@@ -46,7 +46,8 @@ img {margin-bottom: -7px}
 <!-- Photo Grid -->
 <div class="w3-row" id="myGrid" style="margin-bottom:128px">
   <div class="w3-third">
-    <img src="/w3images/rocks.jpg" style="width:100%">
+    <img src="![04f36886-5bfb-4d28-84b8-6a75d49ef54a (1)](https://github.com/user-attachments/assets/ba1a288c-9239-491f-a52c-4d79dab6ab05)
+" style="width:100%">
     <img src="/w3images/sound.jpg" style="width:100%">
     <img src="/w3images/woods.jpg" style="width:100%">
     <img src="/w3images/rock.jpg" style="width:100%">
