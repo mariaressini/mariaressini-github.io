@@ -49,7 +49,8 @@ img {margin-bottom: -7px}
     <img src="C:\Users\SCSLOANL-1048U\Documents\GitHub\mariaressini-github.io\index.htlm.txt" style="width:100%">
     <img src="/w3images/sound.jpg" style="width:100%">
     <img src="/w3images/woods.jpg" style="width:100%">
-    <img src="/w3images/rock.jpg" style="width:100%">
+    <img src="/w3ima![c67c59a1-bd08-42e7-965a-7219a0d8d7e6 (1)](https://github.com/user-attachments/assets/cec71a86-1d32-4449-933d-5ed45cef1bf2)
+ges/rock.jpg" style="width:100%">
     <img src="/w3images/nature.jpg" style="width:100%">
     <img src="/w3images/mist.jpg" style="width:100%">
   </div>
