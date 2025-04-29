@@ -63,13 +63,6 @@ img {margin-bottom: -7px}
     <img src="/w3images/avatar_g.jpg" style="width:100%">
   </div>
 
-  <div class="w3-third">
-    <img src="/w3images/mist.jpg" style="width:100%">
-    <img src="/w3images/workbench.jpg" style="width:100%">
-    <img src="/w3images/gondol.jpg" style="width:100%">
-    <img src="/w3images/skies.jpg" style="width:100%">
-    <img src="/w3images/lights.jpg" style="width:100%">
-    <img src="/w3images/workshop.jpg" style="width:100%">
   </div>
 </div>
 
