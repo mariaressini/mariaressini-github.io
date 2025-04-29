@@ -49,8 +49,7 @@ img {margin-bottom: -7px}
     <img src="04f36886-5bfb-4d28-84b8-6a75d49ef54a (1).jpeg" style="width:100%">
     <img src="73f2cf33-bdf2-4f93-993c-efacb8563072 (1).jpeg" style="width:100%">
     <img src="c67c59a1-bd08-42e7-965a-7219a0d8d7e6.jpeg" style="width:100%">
-    <img src="/w3ima![c67c59a1-bd08-42e7-965a-7219a0d8d7e6 (1)](https://github.com/user-attachments/assets/cec71a86-1d32-4449-933d-5ed45cef1bf2)
-ges/rock.jpg" style="width:100%">
+    <img src="4bd61996-65bf-4de5-9c47-c231f03ef7d0 (3).jpeg" style="width:100%">
     <img src="/w3images/nature.jpg" style="width:100%">
     <img src="/w3images/mist.jpg" style="width:100%">
   </div>
