@@ -56,7 +56,7 @@ img {margin-bottom: -7px}
     <img src="57a83b19-8f6c-499f-bfae-18f809789fe1.jpeg" style="width:100%">
     <img src="IMG_7711.jpeg" style="width:100%">
     <img src="IMG_7712.jpeg" style="width:100%">
-    <img src="4bd61996-65bf-4de5-9c47-c231f03ef7d0 (3).jpeg" style="width:100%">
+    <img src="/w3images/rocks.jpg" style="width:100%">
     <img src="/w3images/rocks.jpg" style="width:100%">
     <img src="/w3images/avatar_g.jpg" style="width:100%">
   </div>
