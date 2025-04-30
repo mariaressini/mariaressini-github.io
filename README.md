@@ -60,6 +60,7 @@ img {margin-bottom: -7px}
     <img src="/w3images/rocks.jpg" style="width:100%">
     <img src="/w3images/avatar_g.jpg" style="width:100%">
   </div>
+  
 <div class="w3-clear"></div>
 <header class="w3-center w3-margin-bottom">
   <h1><b>CONTACT INFORMATION</b></h1>
