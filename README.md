@@ -50,9 +50,7 @@ img {margin-bottom: -7px}
     <img src="73f2cf33-bdf2-4f93-993c-efacb8563072 (1).jpeg" style="width:100%">
     <img src="c67c59a1-bd08-42e7-965a-7219a0d8d7e6.jpeg" style="width:100%">
     <img src="4bd61996-65bf-4de5-9c47-c231f03ef7d0 (3).jpeg" style="width:100%">
-    <img src="/w3images/nature.jpg" style="width:100%">
-    <img src="/w3images/mist.jpg" style="width:100%">
-  </div>
+   
 
   <div class="w3-third">
     <img src="57a83b19-8f6c-499f-bfae-18f809789fe1.jpeg" style="width:100%">
@@ -62,8 +60,16 @@ img {margin-bottom: -7px}
     <img src="/w3images/rocks.jpg" style="width:100%">
     <img src="/w3images/avatar_g.jpg" style="width:100%">
   </div>
-
-  </div>
+<div class="w3-clear"></div>
+<header class="w3-center w3-margin-bottom">
+  <h1><b>CONTACT INFORMATION</b></h1>
+    <p><b> Phone number : 443 716 6176
+         Mail : maressini@hotmail.com
+         Social Media : mari.ressini777 for tiktok and instagram
+         linkedln : </b></p>
+         
+    
+  </div> 
 </div>
 
 <!-- End Page Content -->
